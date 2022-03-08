@@ -40,11 +40,11 @@ insta = Config.L
 buttons=InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-            InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/YourX'),
+            InlineKeyboardButton("🤖Other Bots", url="https://t.me/YourX")
         ],
         [
-            InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
+            InlineKeyboardButton("🔗Source Code", url="https://github.com/instasavex/Instagram-Bot"),
             InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
         ],
         [
