@@ -57,7 +57,7 @@ async def account(bot, message):
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️ Team", url="https://t.me/VishalMehta")
 
                     ]
 					
