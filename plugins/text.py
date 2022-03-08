@@ -47,13 +47,13 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/YourX'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/YourX"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/InstaSaveX/Instagram-Bot"),
+						InlineKeyboardButton("😎 Help", url="https://t.me/YourX")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
