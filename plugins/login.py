@@ -178,7 +178,7 @@ async def logout(bot, message):
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/InstaSaveX/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://t.me/YourX")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
